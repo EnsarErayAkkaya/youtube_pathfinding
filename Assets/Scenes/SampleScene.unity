@@ -152,10 +152,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abb7e79986cd99d44aa6ba96c1cbfdf0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  worldSize: {x: 5, y: 5}
+  worldSize: {x: 5, y: 7}
   grid: {fileID: 117230835}
-  obstacle: {fileID: 0}
-  obstacleCount: 0
+  obstacle: {fileID: 2270088383470075247, guid: ec039c881f6b8f145b2048e15fff08cd, type: 3}
+  obstacleCount: 3
   tile: {fileID: 3679446660311313552, guid: d2a2b124a4bae3e4fa5dc97c7b403044, type: 3}
 --- !u!156049354 &117230835
 Grid:
